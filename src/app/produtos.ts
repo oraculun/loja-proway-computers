@@ -8,7 +8,7 @@ export interface IProduto {
 }
 
 export interface IProdutoCarrinho extends IProduto {
-  quantidade: number; //não consigo compilar
+  quantidade: number;
 }
 
 export const produtos: IProduto[] = [
