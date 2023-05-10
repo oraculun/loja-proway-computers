@@ -8,6 +8,9 @@ import { NaoEncontradaComponent } from './nao-encontrada/nao-encontrada.componen
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSnackBarModule } from "@angular/material/snack-bar"
 
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,7 +22,7 @@ import { MatSnackBarModule } from "@angular/material/snack-bar"
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatSnackBarModule
+    MatSnackBarModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
