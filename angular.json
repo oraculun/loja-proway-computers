@@ -28,9 +28,7 @@
               "@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
-            "scripts": [
-              "node_modules/ngx-mask/bundles/ngx-mask.umd.js"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
